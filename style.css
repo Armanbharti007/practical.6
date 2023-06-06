@@ -1,0 +1,61 @@
+*
+{
+box-sizing: border-box;
+}
+body{background-color: gray;
+}
+nav{
+margin: 0;
+width: 100%;
+overflow: hidden;
+background-color: aqua;
+}
+ol{
+list-style-type: none
+}
+li{
+float: left;
+padding: 10px 10px;
+}
+nav a{
+text-transform: none;
+color: purple;
+font-size: 25px;
+font-family: fantasy;
+}
+nav a:hover{
+text-transform: none;
+color: black;
+font-size: 28px;
+font-family: fantasy;
+text-shadow: 3px 3px 5px red;
+}
+footer{
+color: azure;
+left: 0px;
+bottom:0px;
+width: 100%;
+text-align: center;
+margin: 0;
+position: fixed;
+background-color: aqua;
+font-size: 25px;
+}
+h1{
+font-family: cursive;
+color: black;
+text-align: center ;
+font-size: 35px;
+background: linear-gradient(to right, yellow,orange,red,blue);
+}
+.gallery{
+float: left;
+padding-left: 25px;
+}
+
+
+
+
+
+
+
